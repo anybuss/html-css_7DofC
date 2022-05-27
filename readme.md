@@ -9,4 +9,4 @@ A resolução do layout disponibilizado era de 1440px e apesar de não terem ped
 
 Link do desafio: <a href="https://7daysofcode.io/matricula/html-css">HTML e CSS</a>
 
-Link do meu projeto: <a href="#">OptimusTech - By Any Buss</a>
+Link do meu projeto: <a href="https://optimustech.anybuss.com/">OptimusTech - By Any Buss</a>
