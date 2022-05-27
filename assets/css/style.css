@@ -1,0 +1,30 @@
+@import url(/assets/css/header.css);
+@import url(/assets/css/header-mobile.css);
+@import url(/assets/css/sobre.css);
+@import url(/assets/css/sobre-mobile.css);
+@import url(/assets/css/vagas.css);
+@import url(/assets/css/vagas-mobile.css);
+@import url(/assets/css/depoimentos.css);
+@import url(/assets/css/depoimentos-mobile.css);
+@import url(/assets/css/rodape.css);
+@import url(/assets/css/rodape.mobile.css);
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+:root {
+
+    --color-titulo: #101828;
+    --color-texto: #667085;
+    --color-destaque: #8E2424;
+    --color-branco: #FFFFFF;
+}
+
+body {
+    box-sizing: border-box;
+    color: var(--color-texto);
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    max-width: 1440px;
+    margin: 0 auto;
+}

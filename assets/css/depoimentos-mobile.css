@@ -1,0 +1,15 @@
+@media (max-width: 900px) {
+    .depoimento__wrapper {
+        width: 65vw;
+    }
+
+    .depoimento__frase {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .depoimento__frase {
+        font-size: 1.25rem;
+    }
+}

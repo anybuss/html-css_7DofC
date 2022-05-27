@@ -1,0 +1,56 @@
+.rodape__wrapper {
+    background-color: #F9FAFB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape__titulo {
+    color: var(--color-titulo);
+    font-size: 2.25rem;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 6rem;
+    padding-bottom: 1.25rem;
+
+}
+
+.rodape__subtitulo {
+    font-size: 1.25rem;
+    text-align: center;
+    padding-bottom: 2.5rem;
+}
+
+.btn__input {
+    border: 1px solid #EAECF0;
+    background: var(--color-branco);
+    margin-right: 1rem;
+}
+
+.rodape__texto {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 6rem;
+}
+
+.rodape__copy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+
+}
+
+.copy__dev,
+.copy__alura {
+    font-size: .75rem;
+    text-align: center;
+}
+
+.copy__link,
+.copy__link:hover {
+    color: #000;
+    text-decoration: none;
+}

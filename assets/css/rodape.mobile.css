@@ -1,0 +1,29 @@
+@media (max-width: 900px) {
+    .rodape__titulo {
+        font-size: 1.75rem;
+    }
+}
+
+@media (max-width: 580px) {
+    .rodape__titulo {
+        font-size: 1.5rem;
+    }
+
+    .rodape__subtitulo {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .form {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem 3rem;
+    }
+
+    .btn__input {
+        margin-right: 0;
+    }
+}

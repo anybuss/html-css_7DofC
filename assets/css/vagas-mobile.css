@@ -1,0 +1,74 @@
+@media (max-width: 900px) {
+    .vagas-abertas {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .vagas__titulo {
+        font-size: 1.5rem;
+    }
+
+    .vagas__subtitulo {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 820px) {
+    .vagas {
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
+    }
+    .vaga__wrapper {
+        padding: 1.25rem;
+    }
+
+    .vaga__descricao {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .vaga__texto {
+        padding-right: 0;
+    }
+
+    .vaga__texto:first-of-type {
+        padding-bottom: .5rem;
+    }
+}
+
+@media (max-width: 580px) {
+    .vagas__img {
+        display: none;
+    }
+
+    .vaga {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    .vagas-abertas {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .vaga__texto {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 460px) {
+    .vaga {
+        font-size: 1rem;
+    }
+
+    .vaga__wrapper {
+        padding: .75rem;
+    }
+
+    .vaga__nome {
+        font-size: 1rem;
+    }
+
+    .vaga__texto {
+        font-size: .8rem;
+    }
+}

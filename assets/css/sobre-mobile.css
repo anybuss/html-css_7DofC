@@ -1,0 +1,54 @@
+@media (max-width: 1260px){
+    .sobre {
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+
+    .metricas {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        gap: 2rem 15rem;
+    }
+    
+}
+
+@media (max-width: 900px) {
+    .sobre {
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+
+    .sobre__titulo {
+        font-size: 2rem;
+    }
+
+    .sobre__texto {
+        font-size: 1rem;
+    }
+
+    .metricas {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        gap: 2rem 2rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 550px) {
+    .sobre {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .sobre__chamada {
+        font-size: 1rem;
+    }
+
+    .sobre__titulo {
+        font-size: 1.5rem;
+    }
+
+    .sobre__texto {
+        font-size: 1rem;
+    }
+}
